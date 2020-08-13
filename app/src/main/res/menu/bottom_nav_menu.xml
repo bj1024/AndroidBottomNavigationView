@@ -14,7 +14,7 @@
     <item
         android:id="@+id/navigation_myitem"
         android:icon="@drawable/ic_myitem"
-        android:title="@string/title_notifications"/>
+        android:title="@string/title_myitem"/>
 
     <item
         android:id="@+id/navigation_notifications"
