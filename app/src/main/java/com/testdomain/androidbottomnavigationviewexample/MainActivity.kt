@@ -69,11 +69,7 @@ class MainActivity : AppCompatActivity() {
 //        setupWithNavController とsetOnNavigationItemSelectedListenerは同時に利用できない。
 //        navController に addOnDestinationChangedListenerを入れる必要がある。
 //        navView.setupWithNavController(navController)
-
-
     }
-
-
 
 }
 
